@@ -15,3 +15,4 @@ Framework using:
 1. In order to build this project, you will need to get yourself a firebase project service json to do some configuration.
 2. You will need to configure FireStore for your demo with the data.json provided in this repo.
 3. FireStore should be configure as /postJson/[anything]/ add field with keyvalue : content,[data.json]
+//
